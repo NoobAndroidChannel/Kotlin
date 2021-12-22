@@ -4,7 +4,7 @@ Este repositório é voltado a um curso completo de Kotlin da Blitspot. Fique a 
 O conteúdo aqui contemplado tem o objetivo de levar uma pessoa que sabe não sabe nada sobre programação, ou que já tem alguma experiência em ser especialista na linguagem Kotlin.
 
 ## Roteiro de Estudos 📖
-1) [O que é programação de computadores?](001-oque_e_programacao_de_computadores.md)
+1) [O que é programação de computadores?](01-oque_e_programacao_de_computadores.md)
 2) Conhecendo a linguagem Kotlin
 3) Configurando o ambiente para programar em Kotlin
 4) O seu primeiro programa em Kotlin
