@@ -1,5 +1,5 @@
 # Linguagem Kotlin
-Este repositório é voltado a um curso completo de Kotlin da Blitspot. Fique a vontade para contribuir com o repositório, seja por pull requests, issues, ou então compartilhando com a galera 😊
+Este repositório é voltado a um curso completo de Kotlin da Noob Android. Fique a vontade para contribuir com o repositório, seja por pull requests, issues, ou então compartilhando com a galera 😊
 
 O conteúdo aqui contemplado tem o objetivo de levar uma pessoa que sabe não sabe nada sobre programação, ou que já tem alguma experiência em ser especialista na linguagem Kotlin.
 
